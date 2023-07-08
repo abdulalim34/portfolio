@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+}
+.website-title{
+    font-size: 45px;
+    font-weight: 900px;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+nav > ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 45px;
+    text-decoration: none;
+}
