@@ -20,3 +20,7 @@ nav li{
     margin-right: 45px;
     text-decoration: none;
 }
+.primary-button{
+    border-radius: 6px;
+    background: #FD6E0A;
+}
